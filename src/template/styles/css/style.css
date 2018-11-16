@@ -397,12 +397,12 @@ input, .btn, .slick-slide, textarea {
     margin-left: auto;
     text-align: right;
     width: 200px; }
+    .panel__call_hidden {
+      display: none; }
   .panel__phone a {
     font-size: 23px;
     line-height: 20px;
     font-weight: 700; }
-  .panel__phone_hidden {
-    display: none; }
   .panel__email a {
     font-size: 18px;
     color: #7f6cab;
